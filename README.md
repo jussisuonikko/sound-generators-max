@@ -10,6 +10,8 @@ A sample-based generative soundscape that uses randomized bird song samples. Pla
 
 Main patch view:
 
+![Try Whistling This! main patch](TryWhistlingThis/Media/Try_whistling_this_main_patch.png)
+
 ## Collatz Harmonics
 
 A synthesis-based sound generator that uses the Collatz conjecture as a deterministic algorithm for pitch generation. The resulting numerical sequences are mapped to musical parameters, producing harmonically evolving structures shaped by both mathematical rules and controlled randomness.
