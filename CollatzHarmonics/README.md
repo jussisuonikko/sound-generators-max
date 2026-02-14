@@ -3,6 +3,8 @@
 Collatz Harmonics is an autonomous synthesis-based sound generator developed in Max/MSP.  
 It uses the Collatz conjecture as a deterministic algorithm for generating pitch material, which is then mapped to musical parameters to create an evolving ambient soundscape.
 
+show CollatzHarmonics/media/Collatz_Harmonics_main_patch.png
+
 ## How it works (high level)
 
 - A Collatz step is applied repeatedly to an integer sequence:
